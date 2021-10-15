@@ -68,7 +68,7 @@ equalEl.addEventListener("click", () => {
   clearVar();
   display2El.innerText = result;
   tempResultEl.innerText = "";
-  dis2Num = result;
+  dis2Num = "";
   dis1Num = "";
 });
 
